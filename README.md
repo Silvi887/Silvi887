@@ -1,5 +1,7 @@
 ### Hi there 👋
 My name is Silviya Minova from Sofiya.
+<br/>
+🌱 I’m currently learning Programming Basics with C# 
 <!--
 **Silvi887/Silvi887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <hr>
-Certificates:
+Certificates:<br/>
 MS SQL May 2022
 <br/>https://softuni.bg/certificates/details/134786/2ec2090d
 
