@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 <hr>
 Certificates:
-MS SQL May 2022-https://softuni.bg/certificates/details/134786/2ec2090d
+MS SQL May 2022
+https://softuni.bg/certificates/details/134786/2ec2090d
 
 
 <hr>
