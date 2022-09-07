@@ -21,7 +21,7 @@ Certificates:<br/>
 MS SQL May 2022
 <br/>https://softuni.bg/certificates/details/134786/2ec2090d
 <br/>
-Programming Basics- July C#
+Programming Basics- July 2022 C#
 <br/>
 https://softuni.bg/certificates/details/140048/24907c1a
 
