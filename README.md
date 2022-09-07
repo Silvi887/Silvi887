@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 Certificates:<br/>
 MS SQL May 2022
 <br/>https://softuni.bg/certificates/details/134786/2ec2090d
-
+<br/>
+Programming Basics- July C#
+<br/>
+https://softuni.bg/certificates/details/140048/24907c1a
 
 <hr>
 🍀 In my free time I like walking in the nature, reading and play with my children.
