@@ -24,7 +24,10 @@ MS SQL May 2022
 Programming Basics- July 2022 C#
 <br/>
 https://softuni.bg/certificates/details/140048/24907c1a
-
+<br/>
+Programming Fundanentals with C#
+<br/>
+https://softuni.bg/certificates/details/149132/45598c64
 <hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
