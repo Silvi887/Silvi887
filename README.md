@@ -28,6 +28,10 @@ https://softuni.bg/certificates/details/140048/24907c1a
 Programming Fundanentals with C#
 <br/>
 https://softuni.bg/certificates/details/149132/45598c64
+<br/>
+C# Advanced - 2023
+<br/>
+https://softuni.bg/certificates/details/169477/a50c6ded
 <hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
