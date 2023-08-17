@@ -32,6 +32,10 @@ https://softuni.bg/certificates/details/149132/45598c64
 C# Advanced - 2023
 <br/>
 https://softuni.bg/certificates/details/169477/a50c6ded
+<br/>
+C# OOP
+<br/>
+https://softuni.bg/certificates/details/183114/1018272e
 <hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
