@@ -37,6 +37,10 @@ C# OOP
 <br/>
 https://softuni.bg/certificates/details/183114/1018272e
 <hr>
+HTML & CSS
+<br/>
+https://softuni.bg/users/profile/certificates?username=Silviyak7
+<hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
 <hr>
