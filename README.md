@@ -36,7 +36,7 @@ https://softuni.bg/certificates/details/169477/a50c6ded
 C# OOP
 <br/>
 https://softuni.bg/certificates/details/183114/1018272e
-<hr>
+<br/>
 HTML & CSS
 <br/>
 https://softuni.bg/users/profile/certificates?username=Silviyak7
