@@ -40,6 +40,10 @@ https://softuni.bg/certificates/details/183114/1018272e
 HTML & CSS
 <br/>
 https://softuni.bg/certificates/details/205311/4c84d9ae
+<br/>
+Entity Framework Core
+<br/>
+https://softuni.bg/certificates/details/242348/5890f29d
 <hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
