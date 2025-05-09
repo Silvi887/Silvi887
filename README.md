@@ -39,7 +39,7 @@ https://softuni.bg/certificates/details/183114/1018272e
 <br/>
 HTML & CSS
 <br/>
-https://softuni.bg/users/profile/certificates?username=Silviyak7
+https://softuni.bg/certificates/details/205311/4c84d9ae
 <hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
