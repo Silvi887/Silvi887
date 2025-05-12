@@ -43,7 +43,7 @@ https://softuni.bg/certificates/details/205311/4c84d9ae
 <br/>
 Entity Framework Core
 <br/>
-https://softuni.bg/certificates/details/242348/5890f29d
+https://softuni.bg/certificates/details/242348/5890f29d<br/>
 JS Front-End
 <br/>
 https://softuni.bg/certificates/details/225067/dab92d4c
