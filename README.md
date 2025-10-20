@@ -18,7 +18,18 @@ Here are some ideas to get you started:
 -->
 <hr>
 Certificates:<br/>
-MS SQL May 2022
+  <table>
+    <tr><td><a href="https://softuni.bg/certificates/details/134786/2ec2090d">MS SQL May 2022</a></td></tr>
+    <tr><td>https://softuni.bg/certificates/details/140048/24907c1a</td><td>Programming Basics- July 2022 C#</td></tr>
+    <tr><td>https://softuni.bg/certificates/details/140048/24907c1a</td><td>Programming Fundanentals with C#</td></tr>
+    <tr><td>https://softuni.bg/certificates/details/149132/45598c64</td><td>C# Advanced - 2023</td></tr>
+    <tr><td>https://softuni.bg/certificates/details/169477/a50c6ded</td><td>C# OOP</td></tr>
+    <tr><td>https://softuni.bg/certificates/details/183114/1018272e</td><td>HTML & CSS</td></tr>
+    <tr><td>https://softuni.bg/certificates/details/205311/4c84d9ae</td><td>Entity Framework Core</td></tr>
+    <tr><td>https://softuni.bg/certificates/details/225067/dab92d4c</td><td>JS Front-End</td></tr>
+    <tr><td>https://softuni.bg/certificates/details/249693/fa8c8c1c </td><td>ASP.NET Fundamentals</td></tr>
+   </table> 
+<!--MS SQL May 2022
 <br/>https://softuni.bg/certificates/details/134786/2ec2090d
 <br/>
 Programming Basics- July 2022 C#
@@ -48,7 +59,7 @@ JS Front-End
 <br/>
 https://softuni.bg/certificates/details/225067/dab92d4c
 <br/>
-https://softuni.bg/certificates/details/249693/fa8c8c1c -ASP.NET Fundamentals
+https://softuni.bg/certificates/details/249693/fa8c8c1c -ASP.NET Fundamentals-->
 <hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
