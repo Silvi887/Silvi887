@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <hr>
 Certificates:<br/>
   <table>
-    <tr><td><a href="https://softuni.bg/certificates/details/134786/2ec2090d">MS SQL May 2022</a></td></tr>
+    <tr><td><a href="https://softuni.bg/certificates/details/134786/2ec2090d">MS SQL May 2022</a>MS SQL May 2022</td></tr>
     <tr><td>https://softuni.bg/certificates/details/140048/24907c1a</td><td>Programming Basics- July 2022 C#</td></tr>
     <tr><td>https://softuni.bg/certificates/details/140048/24907c1a</td><td>Programming Fundanentals with C#</td></tr>
     <tr><td>https://softuni.bg/certificates/details/149132/45598c64</td><td>C# Advanced - 2023</td></tr>
