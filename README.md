@@ -47,6 +47,8 @@ https://softuni.bg/certificates/details/242348/5890f29d<br/>
 JS Front-End
 <br/>
 https://softuni.bg/certificates/details/225067/dab92d4c
+<br/>
+https://softuni.bg/certificates/details/249693/fa8c8c1c -ASP.NET Fundamentals
 <hr>
 🍀 In my free time I like walking in the nature, reading and playing with my children.
 
