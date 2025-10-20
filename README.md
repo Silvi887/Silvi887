@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Silviya Minova from Sofiya.
 <br/>
-🌱 I’m currently learning  C# in Software University.
+🌱 I’m currently working as  .net C# Developer and learning   C# ASP.NET Advanced  in Software University.
 <!--
 **Silvi887/Silvi887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
