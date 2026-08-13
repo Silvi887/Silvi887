@@ -28,6 +28,7 @@ Certificates:<br/>
     <tr><td><a href="https://softuni.bg/certificates/details/205311/4c84d9ae">entity framework</a></td><td>Entity Framework Core</td></tr>
     <tr><td><a href="https://softuni.bg/certificates/details/225067/dab92d4c">js Front-End</a></td><td>JS Front-End</td></tr>
     <tr><td><a href="https://softuni.bg/certificates/details/249693/fa8c8c1c">asp.net fundamentals</a> </td><td>ASP.NET Fundamentals</td></tr>
+    <tr><td><a href="https://softuni.bg/certificates/details/249693/fa8c8c1c">asp.net advanced</a> </td><td>ASP.NET Advanced- February 2026</td></tr>
     <tr><td><a href="https://softuni.bg/certificates/details/264473/b81c03c1">typeScript-June 2026</a></td><td>TypeScript-June 2026</td></tr>
    </table> 
 <!--MS SQL May 2022
