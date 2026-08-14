@@ -30,6 +30,9 @@ Certificates:<br/>
     <tr><td><a href="https://softuni.bg/certificates/details/249693/fa8c8c1c">asp.net fundamentals</a> </td><td>ASP.NET Fundamentals</td></tr>
     <tr><td><a href="https://softuni.bg/certificates/details/261179/a3f8e2ea">asp.net advanced</a> </td><td>ASP.NET Advanced- February 2026</td></tr>
     <tr><td><a href="https://softuni.bg/certificates/details/264473/b81c03c1">typeScript-June 2026</a></td><td>TypeScript-June 2026</td></tr>
+     <tr><td><a href="https://github.com/Silvi887/English_Sertificates/blob/main/B1.1.ModuleB.pdf">B1.1.ModuleB</a></td></tr>
+     <tr><td><a href="https://github.com/Silvi887/English_Sertificates/blob/main/B1.2.ModuleA.pdf">B1.2.ModuleA</a></td></tr>
+    
    </table> 
 <!--MS SQL May 2022
 <br/>https://softuni.bg/certificates/details/134786/2ec2090d
